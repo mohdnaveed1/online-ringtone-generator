@@ -20,6 +20,17 @@ Download the created ringtone in popular formats (e.g., MP3, M4R).
 
 
 Technologies Used
-Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
+
+Frontend: 
+
+HTML5,
+
+CSS3,
+
+JavaScript (ES6+),
+
+React.js
+
+
 API
 
