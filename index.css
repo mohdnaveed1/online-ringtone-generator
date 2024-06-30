@@ -1,0 +1,42 @@
+body{
+   background-image: url(https://i.ibb.co/YQnjF6k/photo3.jpg);
+    width: 100%;
+    background-size: cover;
+  
+
+
+}
+.cnt{
+ 
+    color: #ffffff;
+    min-height: 100vh;
+}
+#search-field{
+    background-color:rgba(255, 255, 255, 0.9);
+    padding: 22px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.single-result{
+    background: rgba(42, 216, 232, 0.698);
+    border-radius: 20px;
+}
+.search-btn{
+    background-color:rgba(42, 216, 232, 0.698);
+}
+.search-btn:hover{
+    background: black;
+    border: 2px solid rgba(42, 216, 232, 0.698);;
+        transform: scaleX(1.1) ease;
+        transition: 0.3s ease-in-out;
+}
+.single-result:hover{
+    background: black;
+border: 2px solid rgba(42, 216, 232, 0.698);;
+    transform: scaleX(1.1) ease;
+    transition: 0.3s ease-in-out;
+}

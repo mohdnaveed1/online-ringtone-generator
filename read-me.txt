@@ -1,0 +1,14 @@
+Description:
+
+This project is an online ringtone generator that utilizes APIs to fetch audio clips and allows users to create customized ringtones from these clips. The application provides a user-friendly interface for selecting, editing, and saving ringtones.
+
+Technologies Used:
+
+Frontend: HTML, CSS, JavaScript
+API
+
+Features:
+
+Audio Clip Selection: Users can browse and select audio clips from the provided API(s).
+Can get different voice-over artists songs.
+Save & Download: Save the customized ringtone and download it for personal use.
