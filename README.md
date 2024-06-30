@@ -7,10 +7,15 @@ The Online Ringtone Generator is a web application that allows users to create c
 
 Features
 Upload audio files or provide URL to online audio sources.
+
 Select and edit specific segments of the audio waveform.
+
 Adjust volume levels and apply fade-in/fade-out effects.
+
 Preview the customized ringtone before finalizing.
+
 Download the created ringtone in popular formats (e.g., MP3, M4R).
+
 
 Technologies Used
 Frontend: HTML5, CSS3, JavaScript (ES6+), React.js
