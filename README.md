@@ -2,6 +2,7 @@
 Online Ringtone Generator Using API
 
 
+
 Overview:
 
 The Online Ringtone Generator is a web application that allows users to create custom ringtones from audio files using an API. Users can upload their own audio files or provide a URL to an online audio source. The application provides tools to select specific segments of the audio, adjust volume levels, apply effects like fade-ins or fade-outs, and preview the ringtone before downloading it. This project leverages API to process and manipulate audio files for ringtone creation.
